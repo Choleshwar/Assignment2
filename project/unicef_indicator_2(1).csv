@@ -1,0 +1,1099 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,unit_multiplier,unit_of_measure
+Canada,CA,CAN,124,Coverage of essential health services,2015,89,Units,Index
+Canada,CA,CAN,124,Coverage of essential health services,2017,89,Units,Index
+Canada,CA,CAN,124,Coverage of essential health services,2019,89,Units,Index
+United Kingdom,GB,GBR,826,Coverage of essential health services,2019,88,Units,Index
+Australia,AU,AUS,36,Coverage of essential health services,2017,87,Units,Index
+Australia,AU,AUS,36,Coverage of essential health services,2019,87,Units,Index
+Iceland,IS,ISL,352,Coverage of essential health services,2019,87,Units,Index
+South Korea,KR,KOR,410,Coverage of essential health services,2019,87,Units,Index
+Sweden,SE,SWE,752,Coverage of essential health services,2019,87,Units,Index
+Switzerland,CH,CHE,756,Coverage of essential health services,2019,87,Units,Index
+United Kingdom,GB,GBR,826,Coverage of essential health services,2015,87,Units,Index
+United Kingdom,GB,GBR,826,Coverage of essential health services,2017,87,Units,Index
+Australia,AU,AUS,36,Coverage of essential health services,2015,86,Units,Index
+Germany,DE,DEU,276,Coverage of essential health services,2019,86,Units,Index
+Iceland,IS,ISL,352,Coverage of essential health services,2017,86,Units,Index
+Luxembourg,LU,LUX,442,Coverage of essential health services,2019,86,Units,Index
+Netherlands,NL,NLD,528,Coverage of essential health services,2019,86,Units,Index
+New Zealand,NZ,NZL,554,Coverage of essential health services,2019,86,Units,Index
+Norway,NO,NOR,578,Coverage of essential health services,2019,86,Units,Index
+Singapore,SG,SGP,702,Coverage of essential health services,2019,86,Units,Index
+South Korea,KR,KOR,410,Coverage of essential health services,2017,86,Units,Index
+Spain,ES,ESP,724,Coverage of essential health services,2019,86,Units,Index
+Sweden,SE,SWE,752,Coverage of essential health services,2015,86,Units,Index
+Sweden,SE,SWE,752,Coverage of essential health services,2017,86,Units,Index
+Switzerland,CH,CHE,756,Coverage of essential health services,2017,86,Units,Index
+Belgium,BE,BEL,56,Coverage of essential health services,2017,85,Units,Index
+Belgium,BE,BEL,56,Coverage of essential health services,2019,85,Units,Index
+Denmark,DK,DNK,208,Coverage of essential health services,2019,85,Units,Index
+Germany,DE,DEU,276,Coverage of essential health services,2017,85,Units,Index
+Iceland,IS,ISL,352,Coverage of essential health services,2015,85,Units,Index
+Japan,JP,JPN,392,Coverage of essential health services,2019,85,Units,Index
+Netherlands,NL,NLD,528,Coverage of essential health services,2015,85,Units,Index
+Netherlands,NL,NLD,528,Coverage of essential health services,2017,85,Units,Index
+New Zealand,NZ,NZL,554,Coverage of essential health services,2017,85,Units,Index
+Norway,NO,NOR,578,Coverage of essential health services,2017,85,Units,Index
+Singapore,SG,SGP,702,Coverage of essential health services,2017,85,Units,Index
+South Korea,KR,KOR,410,Coverage of essential health services,2015,85,Units,Index
+Spain,ES,ESP,724,Coverage of essential health services,2017,85,Units,Index
+Belgium,BE,BEL,56,Coverage of essential health services,2015,84,Units,Index
+Canada,CA,CAN,124,Coverage of essential health services,2010,84,Units,Index
+Denmark,DK,DNK,208,Coverage of essential health services,2017,84,Units,Index
+Finland,FI,FIN,246,Coverage of essential health services,2015,84,Units,Index
+France,FR,FRA,250,Coverage of essential health services,2017,84,Units,Index
+France,FR,FRA,250,Coverage of essential health services,2019,84,Units,Index
+Germany,DE,DEU,276,Coverage of essential health services,2015,84,Units,Index
+Israel,IL,ISR,376,Coverage of essential health services,2017,84,Units,Index
+Israel,IL,ISR,376,Coverage of essential health services,2019,84,Units,Index
+Japan,JP,JPN,392,Coverage of essential health services,2017,84,Units,Index
+Luxembourg,LU,LUX,442,Coverage of essential health services,2017,84,Units,Index
+New Zealand,NZ,NZL,554,Coverage of essential health services,2015,84,Units,Index
+Norway,NO,NOR,578,Coverage of essential health services,2015,84,Units,Index
+Portugal,PT,PRT,620,Coverage of essential health services,2017,84,Units,Index
+Portugal,PT,PRT,620,Coverage of essential health services,2019,84,Units,Index
+Singapore,SG,SGP,702,Coverage of essential health services,2015,84,Units,Index
+Spain,ES,ESP,724,Coverage of essential health services,2015,84,Units,Index
+Switzerland,CH,CHE,756,Coverage of essential health services,2015,84,Units,Index
+United Kingdom,GB,GBR,826,Coverage of essential health services,2010,84,Units,Index
+Australia,AU,AUS,36,Coverage of essential health services,2010,83,Units,Index
+Denmark,DK,DNK,208,Coverage of essential health services,2015,83,Units,Index
+Finland,FI,FIN,246,Coverage of essential health services,2017,83,Units,Index
+Finland,FI,FIN,246,Coverage of essential health services,2019,83,Units,Index
+France,FR,FRA,250,Coverage of essential health services,2010,83,Units,Index
+France,FR,FRA,250,Coverage of essential health services,2015,83,Units,Index
+Iceland,IS,ISL,352,Coverage of essential health services,2010,83,Units,Index
+Ireland,IE,IRL,372,Coverage of essential health services,2019,83,Units,Index
+Israel,IL,ISR,376,Coverage of essential health services,2015,83,Units,Index
+Italy,IT,ITA,380,Coverage of essential health services,2019,83,Units,Index
+Japan,JP,JPN,392,Coverage of essential health services,2015,83,Units,Index
+Luxembourg,LU,LUX,442,Coverage of essential health services,2015,83,Units,Index
+South Korea,KR,KOR,410,Coverage of essential health services,2010,83,Units,Index
+Switzerland,CH,CHE,756,Coverage of essential health services,2010,83,Units,Index
+Thailand,TH,THA,764,Coverage of essential health services,2019,83,Units,Index
+United States,US,USA,840,Coverage of essential health services,2019,83,Units,Index
+Australia,AU,AUS,36,Coverage of essential health services,2005,82,Units,Index
+Austria,AT,AUT,40,Coverage of essential health services,2019,82,Units,Index
+Belgium,BE,BEL,56,Coverage of essential health services,2010,82,Units,Index
+China,CN,CHN,156,Coverage of essential health services,2019,82,Units,Index
+Finland,FI,FIN,246,Coverage of essential health services,2010,82,Units,Index
+France,FR,FRA,250,Coverage of essential health services,2005,82,Units,Index
+Germany,DE,DEU,276,Coverage of essential health services,2010,82,Units,Index
+Ireland,IE,IRL,372,Coverage of essential health services,2015,82,Units,Index
+Ireland,IE,IRL,372,Coverage of essential health services,2017,82,Units,Index
+Israel,IL,ISR,376,Coverage of essential health services,2010,82,Units,Index
+Italy,IT,ITA,380,Coverage of essential health services,2017,82,Units,Index
+Netherlands,NL,NLD,528,Coverage of essential health services,2010,82,Units,Index
+New Zealand,NZ,NZL,554,Coverage of essential health services,2010,82,Units,Index
+Norway,NO,NOR,578,Coverage of essential health services,2010,82,Units,Index
+Portugal,PT,PRT,620,Coverage of essential health services,2015,82,Units,Index
+Spain,ES,ESP,724,Coverage of essential health services,2010,82,Units,Index
+Sweden,SE,SWE,752,Coverage of essential health services,2010,82,Units,Index
+United States,US,USA,840,Coverage of essential health services,2017,82,Units,Index
+Austria,AT,AUT,40,Coverage of essential health services,2017,81,Units,Index
+Canada,CA,CAN,124,Coverage of essential health services,2005,81,Units,Index
+Cuba,CU,CUB,192,Coverage of essential health services,2017,81,Units,Index
+France,FR,FRA,250,Coverage of essential health services,2000,81,Units,Index
+Iceland,IS,ISL,352,Coverage of essential health services,2005,81,Units,Index
+Italy,IT,ITA,380,Coverage of essential health services,2015,81,Units,Index
+Malta,MT,MLT,470,Coverage of essential health services,2019,81,Units,Index
+New Zealand,NZ,NZL,554,Coverage of essential health services,2005,81,Units,Index
+South Korea,KR,KOR,410,Coverage of essential health services,2005,81,Units,Index
+Switzerland,CH,CHE,756,Coverage of essential health services,2005,81,Units,Index
+United States,US,USA,840,Coverage of essential health services,2015,81,Units,Index
+Australia,AU,AUS,36,Coverage of essential health services,2000,80,Units,Index
+Chile,CL,CHL,152,Coverage of essential health services,2019,80,Units,Index
+China,CN,CHN,156,Coverage of essential health services,2017,80,Units,Index
+Cuba,CU,CUB,192,Coverage of essential health services,2015,80,Units,Index
+Cuba,CU,CUB,192,Coverage of essential health services,2019,80,Units,Index
+Denmark,DK,DNK,208,Coverage of essential health services,2010,80,Units,Index
+Ecuador,EC,ECU,218,Coverage of essential health services,2019,80,Units,Index
+Finland,FI,FIN,246,Coverage of essential health services,2005,80,Units,Index
+Germany,DE,DEU,276,Coverage of essential health services,2005,80,Units,Index
+Israel,IL,ISR,376,Coverage of essential health services,2005,80,Units,Index
+Japan,JP,JPN,392,Coverage of essential health services,2010,80,Units,Index
+Luxembourg,LU,LUX,442,Coverage of essential health services,2010,80,Units,Index
+Malta,MT,MLT,470,Coverage of essential health services,2017,80,Units,Index
+Netherlands,NL,NLD,528,Coverage of essential health services,2005,80,Units,Index
+Norway,NO,NOR,578,Coverage of essential health services,2005,80,Units,Index
+Portugal,PT,PRT,620,Coverage of essential health services,2010,80,Units,Index
+Slovenia,SI,SVN,705,Coverage of essential health services,2019,80,Units,Index
+Thailand,TH,THA,764,Coverage of essential health services,2017,80,Units,Index
+United Kingdom,GB,GBR,826,Coverage of essential health services,2005,80,Units,Index
+United States,US,USA,840,Coverage of essential health services,2010,80,Units,Index
+Austria,AT,AUT,40,Coverage of essential health services,2015,79,Units,Index
+Belgium,BE,BEL,56,Coverage of essential health services,2005,79,Units,Index
+Cyprus,CY,CYP,196,Coverage of essential health services,2017,79,Units,Index
+Cyprus,CY,CYP,196,Coverage of essential health services,2019,79,Units,Index
+Ireland,IE,IRL,372,Coverage of essential health services,2010,79,Units,Index
+Italy,IT,ITA,380,Coverage of essential health services,2010,79,Units,Index
+Luxembourg,LU,LUX,442,Coverage of essential health services,2005,79,Units,Index
+Malta,MT,MLT,470,Coverage of essential health services,2015,79,Units,Index
+Netherlands,NL,NLD,528,Coverage of essential health services,2000,79,Units,Index
+Slovenia,SI,SVN,705,Coverage of essential health services,2017,79,Units,Index
+Turkey,TR,TUR,792,Coverage of essential health services,2019,79,Units,Index
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2015,79,Units,Index
+United States,US,USA,840,Coverage of essential health services,2005,79,Units,Index
+Uruguay,UY,URY,858,Coverage of essential health services,2019,79,Units,Index
+Brunei,BN,BRN,96,Coverage of essential health services,2017,78,Units,Index
+Chile,CL,CHL,152,Coverage of essential health services,2017,78,Units,Index
+Colombia,CO,COL,170,Coverage of essential health services,2019,78,Units,Index
+Costa Rica,CR,CRI,188,Coverage of essential health services,2019,78,Units,Index
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2017,78,Units,Index
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2019,78,Units,Index
+Denmark,DK,DNK,208,Coverage of essential health services,2005,78,Units,Index
+Ecuador,EC,ECU,218,Coverage of essential health services,2017,78,Units,Index
+Estonia,EE,EST,233,Coverage of essential health services,2019,78,Units,Index
+Greece,GR,GRC,300,Coverage of essential health services,2019,78,Units,Index
+Ireland,IE,IRL,372,Coverage of essential health services,2005,78,Units,Index
+Peru,PE,PER,604,Coverage of essential health services,2019,78,Units,Index
+Singapore,SG,SGP,702,Coverage of essential health services,2010,78,Units,Index
+Spain,ES,ESP,724,Coverage of essential health services,2005,78,Units,Index
+Sweden,SE,SWE,752,Coverage of essential health services,2005,78,Units,Index
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2019,78,Units,Index
+Uruguay,UY,URY,858,Coverage of essential health services,2015,78,Units,Index
+Uruguay,UY,URY,858,Coverage of essential health services,2017,78,Units,Index
+Brunei,BN,BRN,96,Coverage of essential health services,2019,77,Units,Index
+Chile,CL,CHL,152,Coverage of essential health services,2015,77,Units,Index
+China,CN,CHN,156,Coverage of essential health services,2015,77,Units,Index
+Colombia,CO,COL,170,Coverage of essential health services,2017,77,Units,Index
+Costa Rica,CR,CRI,188,Coverage of essential health services,2017,77,Units,Index
+Cuba,CU,CUB,192,Coverage of essential health services,2010,77,Units,Index
+Cyprus,CY,CYP,196,Coverage of essential health services,2015,77,Units,Index
+Denmark,DK,DNK,208,Coverage of essential health services,2000,77,Units,Index
+Estonia,EE,EST,233,Coverage of essential health services,2017,77,Units,Index
+Greece,GR,GRC,300,Coverage of essential health services,2017,77,Units,Index
+Iceland,IS,ISL,352,Coverage of essential health services,2000,77,Units,Index
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2019,77,Units,Index
+Israel,IL,ISR,376,Coverage of essential health services,2000,77,Units,Index
+Japan,JP,JPN,392,Coverage of essential health services,2005,77,Units,Index
+Luxembourg,LU,LUX,442,Coverage of essential health services,2000,77,Units,Index
+New Zealand,NZ,NZL,554,Coverage of essential health services,2000,77,Units,Index
+Panama,PA,PAN,591,Coverage of essential health services,2019,77,Units,Index
+Peru,PE,PER,604,Coverage of essential health services,2017,77,Units,Index
+Slovakia,SK,SVK,703,Coverage of essential health services,2019,77,Units,Index
+Slovenia,SI,SVN,705,Coverage of essential health services,2015,77,Units,Index
+Switzerland,CH,CHE,756,Coverage of essential health services,2000,77,Units,Index
+Turkey,TR,TUR,792,Coverage of essential health services,2015,77,Units,Index
+Turkey,TR,TUR,792,Coverage of essential health services,2017,77,Units,Index
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2017,77,Units,Index
+Austria,AT,AUT,40,Coverage of essential health services,2010,76,Units,Index
+Belgium,BE,BEL,56,Coverage of essential health services,2000,76,Units,Index
+Canada,CA,CAN,124,Coverage of essential health services,2000,76,Units,Index
+Colombia,CO,COL,170,Coverage of essential health services,2015,76,Units,Index
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2015,76,Units,Index
+Ecuador,EC,ECU,218,Coverage of essential health services,2015,76,Units,Index
+El Salvador,SV,SLV,222,Coverage of essential health services,2019,76,Units,Index
+Germany,DE,DEU,276,Coverage of essential health services,2000,76,Units,Index
+Italy,IT,ITA,380,Coverage of essential health services,2005,76,Units,Index
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2019,76,Units,Index
+Malaysia,MY,MYS,458,Coverage of essential health services,2019,76,Units,Index
+Panama,PA,PAN,591,Coverage of essential health services,2017,76,Units,Index
+Peru,PE,PER,604,Coverage of essential health services,2015,76,Units,Index
+Portugal,PT,PRT,620,Coverage of essential health services,2005,76,Units,Index
+Slovakia,SK,SVK,703,Coverage of essential health services,2017,76,Units,Index
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2005,76,Units,Index
+United States,US,USA,840,Coverage of essential health services,2000,76,Units,Index
+Algeria,DZ,DZA,12,Coverage of essential health services,2015,75,Units,Index
+Algeria,DZ,DZA,12,Coverage of essential health services,2017,75,Units,Index
+Algeria,DZ,DZA,12,Coverage of essential health services,2019,75,Units,Index
+Brazil,BR,BRA,76,Coverage of essential health services,2015,75,Units,Index
+Brazil,BR,BRA,76,Coverage of essential health services,2017,75,Units,Index
+Brazil,BR,BRA,76,Coverage of essential health services,2019,75,Units,Index
+Estonia,EE,EST,233,Coverage of essential health services,2015,75,Units,Index
+Finland,FI,FIN,246,Coverage of essential health services,2000,75,Units,Index
+Greece,GR,GRC,300,Coverage of essential health services,2015,75,Units,Index
+Ireland,IE,IRL,372,Coverage of essential health services,2000,75,Units,Index
+Malaysia,MY,MYS,458,Coverage of essential health services,2017,75,Units,Index
+Russia,RU,RUS,643,Coverage of essential health services,2019,75,Units,Index
+Slovakia,SK,SVK,703,Coverage of essential health services,2015,75,Units,Index
+Slovenia,SI,SVN,705,Coverage of essential health services,2010,75,Units,Index
+South Korea,KR,KOR,410,Coverage of essential health services,2000,75,Units,Index
+Sweden,SE,SWE,752,Coverage of essential health services,2000,75,Units,Index
+Thailand,TH,THA,764,Coverage of essential health services,2015,75,Units,Index
+Argentina,AR,ARG,32,Coverage of essential health services,2015,74,Units,Index
+Argentina,AR,ARG,32,Coverage of essential health services,2017,74,Units,Index
+Barbados,BB,BRB,52,Coverage of essential health services,2017,74,Units,Index
+Barbados,BB,BRB,52,Coverage of essential health services,2019,74,Units,Index
+Belarus,BY,BLR,112,Coverage of essential health services,2019,74,Units,Index
+Brazil,BR,BRA,76,Coverage of essential health services,2010,74,Units,Index
+Costa Rica,CR,CRI,188,Coverage of essential health services,2015,74,Units,Index
+El Salvador,SV,SLV,222,Coverage of essential health services,2017,74,Units,Index
+Guyana,GY,GUY,328,Coverage of essential health services,2019,74,Units,Index
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2017,74,Units,Index
+Malta,MT,MLT,470,Coverage of essential health services,2010,74,Units,Index
+Mexico,MX,MEX,484,Coverage of essential health services,2019,74,Units,Index
+Norway,NO,NOR,578,Coverage of essential health services,2000,74,Units,Index
+Poland,PL,POL,616,Coverage of essential health services,2017,74,Units,Index
+Poland,PL,POL,616,Coverage of essential health services,2019,74,Units,Index
+Qatar,QA,QAT,634,Coverage of essential health services,2019,74,Units,Index
+Russia,RU,RUS,643,Coverage of essential health services,2017,74,Units,Index
+Spain,ES,ESP,724,Coverage of essential health services,2000,74,Units,Index
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2010,74,Units,Index
+United Kingdom,GB,GBR,826,Coverage of essential health services,2000,74,Units,Index
+Uruguay,UY,URY,858,Coverage of essential health services,2010,74,Units,Index
+Argentina,AR,ARG,32,Coverage of essential health services,2010,73,Units,Index
+Argentina,AR,ARG,32,Coverage of essential health services,2019,73,Units,Index
+Barbados,BB,BRB,52,Coverage of essential health services,2015,73,Units,Index
+Brunei,BN,BRN,96,Coverage of essential health services,2010,73,Units,Index
+Brunei,BN,BRN,96,Coverage of essential health services,2015,73,Units,Index
+Chile,CL,CHL,152,Coverage of essential health services,2010,73,Units,Index
+Costa Rica,CR,CRI,188,Coverage of essential health services,2010,73,Units,Index
+Croatia,HR,HRV,191,Coverage of essential health services,2019,73,Units,Index
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2010,73,Units,Index
+Ecuador,EC,ECU,218,Coverage of essential health services,2010,73,Units,Index
+El Salvador,SV,SLV,222,Coverage of essential health services,2015,73,Units,Index
+Guyana,GY,GUY,328,Coverage of essential health services,2017,73,Units,Index
+Hungary,HU,HUN,348,Coverage of essential health services,2019,73,Units,Index
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2017,73,Units,Index
+Malaysia,MY,MYS,458,Coverage of essential health services,2015,73,Units,Index
+Mexico,MX,MEX,484,Coverage of essential health services,2015,73,Units,Index
+Mexico,MX,MEX,484,Coverage of essential health services,2017,73,Units,Index
+Morocco,MA,MAR,504,Coverage of essential health services,2019,73,Units,Index
+Panama,PA,PAN,591,Coverage of essential health services,2015,73,Units,Index
+Poland,PL,POL,616,Coverage of essential health services,2015,73,Units,Index
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2019,73,Units,Index
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2000,73,Units,Index
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2005,73,Units,Index
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2010,73,Units,Index
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2019,73,Units,Index
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2019,73,Units,Index
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2019,73,Units,Index
+Ukraine,UA,UKR,804,Coverage of essential health services,2019,73,Units,Index
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2015,72,Units,Index
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2017,72,Units,Index
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2019,72,Units,Index
+Argentina,AR,ARG,32,Coverage of essential health services,2005,72,Units,Index
+Austria,AT,AUT,40,Coverage of essential health services,2005,72,Units,Index
+Bahrain,BH,BHR,48,Coverage of essential health services,2015,72,Units,Index
+Bahrain,BH,BHR,48,Coverage of essential health services,2017,72,Units,Index
+Brazil,BR,BRA,76,Coverage of essential health services,2005,72,Units,Index
+Croatia,HR,HRV,191,Coverage of essential health services,2017,72,Units,Index
+Cuba,CU,CUB,192,Coverage of essential health services,2005,72,Units,Index
+Cyprus,CY,CYP,196,Coverage of essential health services,2010,72,Units,Index
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2000,72,Units,Index
+Greece,GR,GRC,300,Coverage of essential health services,2010,72,Units,Index
+Guyana,GY,GUY,328,Coverage of essential health services,2015,72,Units,Index
+Latvia,LV,LVA,428,Coverage of essential health services,2019,72,Units,Index
+Lebanon,LB,LBN,422,Coverage of essential health services,2019,72,Units,Index
+Malta,MT,MLT,470,Coverage of essential health services,2000,72,Units,Index
+Malta,MT,MLT,470,Coverage of essential health services,2005,72,Units,Index
+Panama,PA,PAN,591,Coverage of essential health services,2010,72,Units,Index
+Peru,PE,PER,604,Coverage of essential health services,2010,72,Units,Index
+Qatar,QA,QAT,634,Coverage of essential health services,2017,72,Units,Index
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2019,72,Units,Index
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2017,72,Units,Index
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2017,72,Units,Index
+Slovakia,SK,SVK,703,Coverage of essential health services,2010,72,Units,Index
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2015,72,Units,Index
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2017,72,Units,Index
+Bahrain,BH,BHR,48,Coverage of essential health services,2019,71,Units,Index
+Belarus,BY,BLR,112,Coverage of essential health services,2017,71,Units,Index
+Chile,CL,CHL,152,Coverage of essential health services,2005,71,Units,Index
+Croatia,HR,HRV,191,Coverage of essential health services,2015,71,Units,Index
+Czech Republic,CZ,CZE,203,Coverage of essential health services,2005,71,Units,Index
+Estonia,EE,EST,233,Coverage of essential health services,2010,71,Units,Index
+Hungary,HU,HUN,348,Coverage of essential health services,2017,71,Units,Index
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2015,71,Units,Index
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2017,71,Units,Index
+Maldives,MV,MDV,462,Coverage of essential health services,2017,71,Units,Index
+Morocco,MA,MAR,504,Coverage of essential health services,2017,71,Units,Index
+Portugal,PT,PRT,620,Coverage of essential health services,2000,71,Units,Index
+Romania,RO,ROU,642,Coverage of essential health services,2015,71,Units,Index
+Romania,RO,ROU,642,Coverage of essential health services,2017,71,Units,Index
+Romania,RO,ROU,642,Coverage of essential health services,2019,71,Units,Index
+Russia,RU,RUS,643,Coverage of essential health services,2015,71,Units,Index
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2015,71,Units,Index
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2015,71,Units,Index
+Saudi Arabia,SA,SAU,682,Coverage of essential health services,2015,71,Units,Index
+Serbia,RS,SRB,688,Coverage of essential health services,2019,71,Units,Index
+Slovakia,SK,SVK,703,Coverage of essential health services,2005,71,Units,Index
+Slovenia,SI,SVN,705,Coverage of essential health services,2000,71,Units,Index
+Slovenia,SI,SVN,705,Coverage of essential health services,2005,71,Units,Index
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2017,71,Units,Index
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2019,71,Units,Index
+Venezuela,VE,VEN,862,Coverage of essential health services,2015,71,Units,Index
+Algeria,DZ,DZA,12,Coverage of essential health services,2010,70,Units,Index
+Bahamas,BS,BHS,44,Coverage of essential health services,2019,70,Units,Index
+Barbados,BB,BRB,52,Coverage of essential health services,2010,70,Units,Index
+Bulgaria,BG,BGR,100,Coverage of essential health services,2019,70,Units,Index
+Croatia,HR,HRV,191,Coverage of essential health services,2010,70,Units,Index
+Egypt,EG,EGY,818,Coverage of essential health services,2019,70,Units,Index
+Greece,GR,GRC,300,Coverage of essential health services,2005,70,Units,Index
+Grenada,GD,GRD,308,Coverage of essential health services,2019,70,Units,Index
+Hungary,HU,HUN,348,Coverage of essential health services,2015,70,Units,Index
+Italy,IT,ITA,380,Coverage of essential health services,2000,70,Units,Index
+Jamaica,JM,JAM,388,Coverage of essential health services,2019,70,Units,Index
+Japan,JP,JPN,392,Coverage of essential health services,2000,70,Units,Index
+Kuwait,KW,KWT,414,Coverage of essential health services,2019,70,Units,Index
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2019,70,Units,Index
+Latvia,LV,LVA,428,Coverage of essential health services,2017,70,Units,Index
+Lithuania,LT,LTU,440,Coverage of essential health services,2019,70,Units,Index
+Mexico,MX,MEX,484,Coverage of essential health services,2010,70,Units,Index
+Morocco,MA,MAR,504,Coverage of essential health services,2015,70,Units,Index
+Nicaragua,NI,NIC,558,Coverage of essential health services,2019,70,Units,Index
+Poland,PL,POL,616,Coverage of essential health services,2010,70,Units,Index
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2017,70,Units,Index
+Serbia,RS,SRB,688,Coverage of essential health services,2017,70,Units,Index
+Seychelles,SC,SYC,690,Coverage of essential health services,2019,70,Units,Index
+Thailand,TH,THA,764,Coverage of essential health services,2010,70,Units,Index
+Tunisia,TN,TUN,788,Coverage of essential health services,2019,70,Units,Index
+Ukraine,UA,UKR,804,Coverage of essential health services,2017,70,Units,Index
+Venezuela,VE,VEN,862,Coverage of essential health services,2019,70,Units,Index
+Vietnam,VN,VNM,704,Coverage of essential health services,2019,70,Units,Index
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2010,69,Units,Index
+Armenia,AM,ARM,51,Coverage of essential health services,2019,69,Units,Index
+Bahamas,BS,BHS,44,Coverage of essential health services,2017,69,Units,Index
+Bahrain,BH,BHR,48,Coverage of essential health services,2010,69,Units,Index
+Belarus,BY,BLR,112,Coverage of essential health services,2015,69,Units,Index
+Cape Verde,CV,CPV,132,Coverage of essential health services,2019,69,Units,Index
+Colombia,CO,COL,170,Coverage of essential health services,2010,69,Units,Index
+Costa Rica,CR,CRI,188,Coverage of essential health services,2005,69,Units,Index
+Croatia,HR,HRV,191,Coverage of essential health services,2005,69,Units,Index
+El Salvador,SV,SLV,222,Coverage of essential health services,2010,69,Units,Index
+Grenada,GD,GRD,308,Coverage of essential health services,2017,69,Units,Index
+Guyana,GY,GUY,328,Coverage of essential health services,2010,69,Units,Index
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2015,69,Units,Index
+Jamaica,JM,JAM,388,Coverage of essential health services,2017,69,Units,Index
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2015,69,Units,Index
+Lebanon,LB,LBN,422,Coverage of essential health services,2017,69,Units,Index
+Maldives,MV,MDV,462,Coverage of essential health services,2019,69,Units,Index
+Oman,OM,OMN,512,Coverage of essential health services,2017,69,Units,Index
+Oman,OM,OMN,512,Coverage of essential health services,2019,69,Units,Index
+Romania,RO,ROU,642,Coverage of essential health services,2005,69,Units,Index
+Romania,RO,ROU,642,Coverage of essential health services,2010,69,Units,Index
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2010,69,Units,Index
+Serbia,RS,SRB,688,Coverage of essential health services,2015,69,Units,Index
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2010,69,Units,Index
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2015,69,Units,Index
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2017,69,Units,Index
+Venezuela,VE,VEN,862,Coverage of essential health services,2017,69,Units,Index
+Argentina,AR,ARG,32,Coverage of essential health services,2000,68,Units,Index
+Armenia,AM,ARM,51,Coverage of essential health services,2017,68,Units,Index
+Barbados,BB,BRB,52,Coverage of essential health services,2005,68,Units,Index
+Brazil,BR,BRA,76,Coverage of essential health services,2000,68,Units,Index
+Cape Verde,CV,CPV,132,Coverage of essential health services,2017,68,Units,Index
+China,CN,CHN,156,Coverage of essential health services,2010,68,Units,Index
+Cyprus,CY,CYP,196,Coverage of essential health services,2005,68,Units,Index
+Jamaica,JM,JAM,388,Coverage of essential health services,2015,68,Units,Index
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2017,68,Units,Index
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2019,68,Units,Index
+Kuwait,KW,KWT,414,Coverage of essential health services,2005,68,Units,Index
+Kuwait,KW,KWT,414,Coverage of essential health services,2017,68,Units,Index
+Lebanon,LB,LBN,422,Coverage of essential health services,2015,68,Units,Index
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2019,68,Units,Index
+Malaysia,MY,MYS,458,Coverage of essential health services,2010,68,Units,Index
+Maldives,MV,MDV,462,Coverage of essential health services,2015,68,Units,Index
+Nicaragua,NI,NIC,558,Coverage of essential health services,2015,68,Units,Index
+Nicaragua,NI,NIC,558,Coverage of essential health services,2017,68,Units,Index
+Panama,PA,PAN,591,Coverage of essential health services,2005,68,Units,Index
+Poland,PL,POL,616,Coverage of essential health services,2005,68,Units,Index
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2010,68,Units,Index
+Serbia,RS,SRB,688,Coverage of essential health services,2005,68,Units,Index
+Serbia,RS,SRB,688,Coverage of essential health services,2010,68,Units,Index
+Seychelles,SC,SYC,690,Coverage of essential health services,2017,68,Units,Index
+Singapore,SG,SGP,702,Coverage of essential health services,2005,68,Units,Index
+Suriname,SR,SUR,740,Coverage of essential health services,2017,68,Units,Index
+Tunisia,TN,TUN,788,Coverage of essential health services,2017,68,Units,Index
+Uruguay,UY,URY,858,Coverage of essential health services,2005,68,Units,Index
+Vietnam,VN,VNM,704,Coverage of essential health services,2017,68,Units,Index
+Bahamas,BS,BHS,44,Coverage of essential health services,2015,67,Units,Index
+Belize,BZ,BLZ,84,Coverage of essential health services,2019,67,Units,Index
+Bolivia,BO,BOL,68,Coverage of essential health services,2019,67,Units,Index
+Brunei,BN,BRN,96,Coverage of essential health services,2005,67,Units,Index
+Bulgaria,BG,BGR,100,Coverage of essential health services,2000,67,Units,Index
+Bulgaria,BG,BGR,100,Coverage of essential health services,2017,67,Units,Index
+Cape Verde,CV,CPV,132,Coverage of essential health services,2015,67,Units,Index
+Croatia,HR,HRV,191,Coverage of essential health services,2000,67,Units,Index
+Grenada,GD,GRD,308,Coverage of essential health services,2015,67,Units,Index
+Hungary,HU,HUN,348,Coverage of essential health services,2000,67,Units,Index
+Hungary,HU,HUN,348,Coverage of essential health services,2005,67,Units,Index
+Hungary,HU,HUN,348,Coverage of essential health services,2010,67,Units,Index
+Kuwait,KW,KWT,414,Coverage of essential health services,2000,67,Units,Index
+Kuwait,KW,KWT,414,Coverage of essential health services,2015,67,Units,Index
+Lithuania,LT,LTU,440,Coverage of essential health services,2017,67,Units,Index
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2017,67,Units,Index
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2019,67,Units,Index
+Montenegro,ME,MNE,499,Coverage of essential health services,2019,67,Units,Index
+Oman,OM,OMN,512,Coverage of essential health services,2015,67,Units,Index
+Romania,RO,ROU,642,Coverage of essential health services,2000,67,Units,Index
+South Africa,ZA,ZAF,710,Coverage of essential health services,2019,67,Units,Index
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2019,67,Units,Index
+Suriname,SR,SUR,740,Coverage of essential health services,2015,67,Units,Index
+Suriname,SR,SUR,740,Coverage of essential health services,2019,67,Units,Index
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2015,67,Units,Index
+Austria,AT,AUT,40,Coverage of essential health services,2000,66,Units,Index
+Bahrain,BH,BHR,48,Coverage of essential health services,2005,66,Units,Index
+Bulgaria,BG,BGR,100,Coverage of essential health services,2015,66,Units,Index
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2019,66,Units,Index
+Greece,GR,GRC,300,Coverage of essential health services,2000,66,Units,Index
+Jamaica,JM,JAM,388,Coverage of essential health services,2010,66,Units,Index
+Kuwait,KW,KWT,414,Coverage of essential health services,2010,66,Units,Index
+Latvia,LV,LVA,428,Coverage of essential health services,2015,66,Units,Index
+Lebanon,LB,LBN,422,Coverage of essential health services,2010,66,Units,Index
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2015,66,Units,Index
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2017,66,Units,Index
+Oman,OM,OMN,512,Coverage of essential health services,2010,66,Units,Index
+Qatar,QA,QAT,634,Coverage of essential health services,2015,66,Units,Index
+Russia,RU,RUS,643,Coverage of essential health services,2010,66,Units,Index
+Seychelles,SC,SYC,690,Coverage of essential health services,2015,66,Units,Index
+South Africa,ZA,ZAF,710,Coverage of essential health services,2017,66,Units,Index
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2019,66,Units,Index
+Tunisia,TN,TUN,788,Coverage of essential health services,2015,66,Units,Index
+Turkey,TR,TUR,792,Coverage of essential health services,2010,66,Units,Index
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2010,66,Units,Index
+Venezuela,VE,VEN,862,Coverage of essential health services,2010,66,Units,Index
+Vietnam,VN,VNM,704,Coverage of essential health services,2015,66,Units,Index
+Algeria,DZ,DZA,12,Coverage of essential health services,2005,65,Units,Index
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2005,65,Units,Index
+Armenia,AM,ARM,51,Coverage of essential health services,2015,65,Units,Index
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2019,65,Units,Index
+Belarus,BY,BLR,112,Coverage of essential health services,2010,65,Units,Index
+Belize,BZ,BLZ,84,Coverage of essential health services,2017,65,Units,Index
+Bolivia,BO,BOL,68,Coverage of essential health services,2015,65,Units,Index
+Bolivia,BO,BOL,68,Coverage of essential health services,2017,65,Units,Index
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2017,65,Units,Index
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2019,65,Units,Index
+Costa Rica,CR,CRI,188,Coverage of essential health services,2000,65,Units,Index
+Egypt,EG,EGY,818,Coverage of essential health services,2017,65,Units,Index
+Georgia,GE,GEO,268,Coverage of essential health services,2015,65,Units,Index
+Georgia,GE,GEO,268,Coverage of essential health services,2017,65,Units,Index
+Georgia,GE,GEO,268,Coverage of essential health services,2019,65,Units,Index
+Grenada,GD,GRD,308,Coverage of essential health services,2010,65,Units,Index
+Lithuania,LT,LTU,440,Coverage of essential health services,2015,65,Units,Index
+Mauritius,MU,MUS,480,Coverage of essential health services,2019,65,Units,Index
+Mexico,MX,MEX,484,Coverage of essential health services,2005,65,Units,Index
+Montenegro,ME,MNE,499,Coverage of essential health services,2017,65,Units,Index
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2017,65,Units,Index
+Turkey,TR,TUR,792,Coverage of essential health services,2005,65,Units,Index
+Uruguay,UY,URY,858,Coverage of essential health services,2000,65,Units,Index
+Bahamas,BS,BHS,44,Coverage of essential health services,2005,64,Units,Index
+Bahamas,BS,BHS,44,Coverage of essential health services,2010,64,Units,Index
+Bahrain,BH,BHR,48,Coverage of essential health services,2000,64,Units,Index
+Belize,BZ,BLZ,84,Coverage of essential health services,2010,64,Units,Index
+Belize,BZ,BLZ,84,Coverage of essential health services,2015,64,Units,Index
+Colombia,CO,COL,170,Coverage of essential health services,2005,64,Units,Index
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2017,64,Units,Index
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2010,64,Units,Index
+Malaysia,MY,MYS,458,Coverage of essential health services,2005,64,Units,Index
+Mauritius,MU,MUS,480,Coverage of essential health services,2017,64,Units,Index
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2015,64,Units,Index
+Montenegro,ME,MNE,499,Coverage of essential health services,2015,64,Units,Index
+Oman,OM,OMN,512,Coverage of essential health services,2005,64,Units,Index
+Panama,PA,PAN,591,Coverage of essential health services,2000,64,Units,Index
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2005,64,Units,Index
+South Africa,ZA,ZAF,710,Coverage of essential health services,2015,64,Units,Index
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2017,64,Units,Index
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2005,64,Units,Index
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2017,63,Units,Index
+Bulgaria,BG,BGR,100,Coverage of essential health services,2005,63,Units,Index
+Bulgaria,BG,BGR,100,Coverage of essential health services,2010,63,Units,Index
+Chile,CL,CHL,152,Coverage of essential health services,2000,63,Units,Index
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2015,63,Units,Index
+El Salvador,SV,SLV,222,Coverage of essential health services,2005,63,Units,Index
+Georgia,GE,GEO,268,Coverage of essential health services,2010,63,Units,Index
+Guyana,GY,GUY,328,Coverage of essential health services,2005,63,Units,Index
+Honduras,HN,HND,340,Coverage of essential health services,2019,63,Units,Index
+Latvia,LV,LVA,428,Coverage of essential health services,2010,63,Units,Index
+Mauritius,MU,MUS,480,Coverage of essential health services,2015,63,Units,Index
+Mongolia,MN,MNG,496,Coverage of essential health services,2017,63,Units,Index
+Mongolia,MN,MNG,496,Coverage of essential health services,2019,63,Units,Index
+Montenegro,ME,MNE,499,Coverage of essential health services,2010,63,Units,Index
+Morocco,MA,MAR,504,Coverage of essential health services,2010,63,Units,Index
+Nicaragua,NI,NIC,558,Coverage of essential health services,2010,63,Units,Index
+Oman,OM,OMN,512,Coverage of essential health services,2000,63,Units,Index
+Poland,PL,POL,616,Coverage of essential health services,2000,63,Units,Index
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2005,63,Units,Index
+Suriname,SR,SUR,740,Coverage of essential health services,2010,63,Units,Index
+Thailand,TH,THA,764,Coverage of essential health services,2005,63,Units,Index
+Tunisia,TN,TUN,788,Coverage of essential health services,2010,63,Units,Index
+Ukraine,UA,UKR,804,Coverage of essential health services,2015,63,Units,Index
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2010,63,Units,Index
+Albania,AL,ALB,8,Coverage of essential health services,2015,62,Units,Index
+Albania,AL,ALB,8,Coverage of essential health services,2017,62,Units,Index
+Albania,AL,ALB,8,Coverage of essential health services,2019,62,Units,Index
+Bhutan,BT,BTN,64,Coverage of essential health services,2019,62,Units,Index
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2015,62,Units,Index
+Cape Verde,CV,CPV,132,Coverage of essential health services,2010,62,Units,Index
+Ecuador,EC,ECU,218,Coverage of essential health services,2005,62,Units,Index
+Egypt,EG,EGY,818,Coverage of essential health services,2015,62,Units,Index
+Lebanon,LB,LBN,422,Coverage of essential health services,2005,62,Units,Index
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2010,62,Units,Index
+Maldives,MV,MDV,462,Coverage of essential health services,2010,62,Units,Index
+Mongolia,MN,MNG,496,Coverage of essential health services,2015,62,Units,Index
+Singapore,SG,SGP,702,Coverage of essential health services,2000,62,Units,Index
+Slovakia,SK,SVK,703,Coverage of essential health services,2000,62,Units,Index
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2015,62,Units,Index
+Algeria,DZ,DZA,12,Coverage of essential health services,2000,61,Units,Index
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2015,61,Units,Index
+Cambodia,KH,KHM,116,Coverage of essential health services,2019,61,Units,Index
+Estonia,EE,EST,233,Coverage of essential health services,2005,61,Units,Index
+Fiji,FJ,FJI,242,Coverage of essential health services,2019,61,Units,Index
+Grenada,GD,GRD,308,Coverage of essential health services,2005,61,Units,Index
+India,IN,IND,356,Coverage of essential health services,2019,61,Units,Index
+Jamaica,JM,JAM,388,Coverage of essential health services,2005,61,Units,Index
+Jordan,JO,JOR,400,Coverage of essential health services,2010,61,Units,Index
+Jordan,JO,JOR,400,Coverage of essential health services,2017,61,Units,Index
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2010,61,Units,Index
+Montenegro,ME,MNE,499,Coverage of essential health services,2005,61,Units,Index
+Myanmar,MM,MMR,104,Coverage of essential health services,2019,61,Units,Index
+Paraguay,PY,PRY,600,Coverage of essential health services,2019,61,Units,Index
+Turkey,TR,TUR,792,Coverage of essential health services,2000,61,Units,Index
+Venezuela,VE,VEN,862,Coverage of essential health services,2005,61,Units,Index
+Bhutan,BT,BTN,64,Coverage of essential health services,2017,60,Units,Index
+Cambodia,KH,KHM,116,Coverage of essential health services,2017,60,Units,Index
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2010,60,Units,Index
+Estonia,EE,EST,233,Coverage of essential health services,2000,60,Units,Index
+Honduras,HN,HND,340,Coverage of essential health services,2015,60,Units,Index
+Honduras,HN,HND,340,Coverage of essential health services,2017,60,Units,Index
+Jordan,JO,JOR,400,Coverage of essential health services,2015,60,Units,Index
+Jordan,JO,JOR,400,Coverage of essential health services,2019,60,Units,Index
+Libya,LY,LBY,434,Coverage of essential health services,2017,60,Units,Index
+Libya,LY,LBY,434,Coverage of essential health services,2019,60,Units,Index
+Mexico,MX,MEX,484,Coverage of essential health services,2000,60,Units,Index
+Paraguay,PY,PRY,600,Coverage of essential health services,2017,60,Units,Index
+Peru,PE,PER,604,Coverage of essential health services,2005,60,Units,Index
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2017,60,Units,Index
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2019,60,Units,Index
+Seychelles,SC,SYC,690,Coverage of essential health services,2010,60,Units,Index
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2015,60,Units,Index
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2005,60,Units,Index
+Albania,AL,ALB,8,Coverage of essential health services,2010,59,Units,Index
+Belize,BZ,BLZ,84,Coverage of essential health services,2005,59,Units,Index
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2005,59,Units,Index
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2010,59,Units,Index
+China,CN,CHN,156,Coverage of essential health services,2005,59,Units,Index
+Egypt,EG,EGY,818,Coverage of essential health services,2010,59,Units,Index
+Fiji,FJ,FJI,242,Coverage of essential health services,2017,59,Units,Index
+Guatemala,GT,GTM,320,Coverage of essential health services,2010,59,Units,Index
+Indonesia,ID,IDN,360,Coverage of essential health services,2019,59,Units,Index
+Jordan,JO,JOR,400,Coverage of essential health services,2005,59,Units,Index
+Paraguay,PY,PRY,600,Coverage of essential health services,2015,59,Units,Index
+Ukraine,UA,UKR,804,Coverage of essential health services,2010,59,Units,Index
+Vietnam,VN,VNM,704,Coverage of essential health services,2010,59,Units,Index
+Cambodia,KH,KHM,116,Coverage of essential health services,2015,58,Units,Index
+Fiji,FJ,FJI,242,Coverage of essential health services,2015,58,Units,Index
+Libya,LY,LBY,434,Coverage of essential health services,2010,58,Units,Index
+Lithuania,LT,LTU,440,Coverage of essential health services,2010,58,Units,Index
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2010,58,Units,Index
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2015,58,Units,Index
+South Africa,ZA,ZAF,710,Coverage of essential health services,2010,58,Units,Index
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2019,58,Units,Index
+Armenia,AM,ARM,51,Coverage of essential health services,2010,57,Units,Index
+Bhutan,BT,BTN,64,Coverage of essential health services,2015,57,Units,Index
+Bolivia,BO,BOL,68,Coverage of essential health services,2010,57,Units,Index
+Cuba,CU,CUB,192,Coverage of essential health services,2000,57,Units,Index
+Georgia,GE,GEO,268,Coverage of essential health services,2005,57,Units,Index
+Guatemala,GT,GTM,320,Coverage of essential health services,2015,57,Units,Index
+Guatemala,GT,GTM,320,Coverage of essential health services,2019,57,Units,Index
+Honduras,HN,HND,340,Coverage of essential health services,2010,57,Units,Index
+India,IN,IND,356,Coverage of essential health services,2017,57,Units,Index
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2010,57,Units,Index
+Jordan,JO,JOR,400,Coverage of essential health services,2000,57,Units,Index
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2005,57,Units,Index
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2005,57,Units,Index
+Libya,LY,LBY,434,Coverage of essential health services,2015,57,Units,Index
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2000,57,Units,Index
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Coverage of essential health services,2005,57,Units,Index
+Mauritius,MU,MUS,480,Coverage of essential health services,2010,57,Units,Index
+Montenegro,ME,MNE,499,Coverage of essential health services,2000,57,Units,Index
+Suriname,SR,SUR,740,Coverage of essential health services,2005,57,Units,Index
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2017,57,Units,Index
+Tunisia,TN,TUN,788,Coverage of essential health services,2005,57,Units,Index
+Ecuador,EC,ECU,218,Coverage of essential health services,2000,56,Units,Index
+Fiji,FJ,FJI,242,Coverage of essential health services,2010,56,Units,Index
+Guatemala,GT,GTM,320,Coverage of essential health services,2017,56,Units,Index
+Kenya,KE,KEN,404,Coverage of essential health services,2019,56,Units,Index
+Latvia,LV,LVA,428,Coverage of essential health services,2005,56,Units,Index
+Myanmar,MM,MMR,104,Coverage of essential health services,2017,56,Units,Index
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2017,56,Units,Index
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2019,56,Units,Index
+Tonga,TO,TON,776,Coverage of essential health services,2019,56,Units,Index
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2017,56,Units,Index
+Albania,AL,ALB,8,Coverage of essential health services,2005,55,Units,Index
+Belarus,BY,BLR,112,Coverage of essential health services,2005,55,Units,Index
+Brunei,BN,BRN,96,Coverage of essential health services,2000,55,Units,Index
+India,IN,IND,356,Coverage of essential health services,2015,55,Units,Index
+Indonesia,ID,IDN,360,Coverage of essential health services,2017,55,Units,Index
+Iraq,IQ,IRQ,368,Coverage of essential health services,2019,55,Units,Index
+Libya,LY,LBY,434,Coverage of essential health services,2005,55,Units,Index
+Morocco,MA,MAR,504,Coverage of essential health services,2005,55,Units,Index
+Paraguay,PY,PRY,600,Coverage of essential health services,2010,55,Units,Index
+Philippines,PH,PHL,608,Coverage of essential health services,2019,55,Units,Index
+Rwanda,RW,RWA,646,Coverage of essential health services,2017,55,Units,Index
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2010,55,Units,Index
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2010,55,Units,Index
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2010,55,Units,Index
+Tonga,TO,TON,776,Coverage of essential health services,2017,55,Units,Index
+Zambia,ZM,ZMB,894,Coverage of essential health services,2019,55,Units,Index
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2015,55,Units,Index
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2019,55,Units,Index
+Botswana,BW,BWA,72,Coverage of essential health services,2017,54,Units,Index
+Botswana,BW,BWA,72,Coverage of essential health services,2019,54,Units,Index
+Cape Verde,CV,CPV,132,Coverage of essential health services,2005,54,Units,Index
+Kenya,KE,KEN,404,Coverage of essential health services,2017,54,Units,Index
+Lebanon,LB,LBN,422,Coverage of essential health services,2000,54,Units,Index
+Mongolia,MN,MNG,496,Coverage of essential health services,2010,54,Units,Index
+Myanmar,MM,MMR,104,Coverage of essential health services,2015,54,Units,Index
+Rwanda,RW,RWA,646,Coverage of essential health services,2019,54,Units,Index
+Samoa,WS,WSM,882,Coverage of essential health services,2017,54,Units,Index
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2015,54,Units,Index
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2015,54,Units,Index
+Tonga,TO,TON,776,Coverage of essential health services,2010,54,Units,Index
+Tonga,TO,TON,776,Coverage of essential health services,2015,54,Units,Index
+Turkmenistan,TM,TKM,795,Coverage of essential health services,2000,54,Units,Index
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2010,53,Units,Index
+Botswana,BW,BWA,72,Coverage of essential health services,2015,53,Units,Index
+Cambodia,KH,KHM,116,Coverage of essential health services,2010,53,Units,Index
+Cyprus,CY,CYP,196,Coverage of essential health services,2000,53,Units,Index
+Fiji,FJ,FJI,242,Coverage of essential health services,2005,53,Units,Index
+Guatemala,GT,GTM,320,Coverage of essential health services,2005,53,Units,Index
+Iraq,IQ,IRQ,368,Coverage of essential health services,2017,53,Units,Index
+Libya,LY,LBY,434,Coverage of essential health services,2000,53,Units,Index
+Lithuania,LT,LTU,440,Coverage of essential health services,2005,53,Units,Index
+Nepal,NP,NPL,524,Coverage of essential health services,2019,53,Units,Index
+Philippines,PH,PHL,608,Coverage of essential health services,2017,53,Units,Index
+Rwanda,RW,RWA,646,Coverage of essential health services,2015,53,Units,Index
+Samoa,WS,WSM,882,Coverage of essential health services,2015,53,Units,Index
+Samoa,WS,WSM,882,Coverage of essential health services,2019,53,Units,Index
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2019,53,Units,Index
+Honduras,HN,HND,340,Coverage of essential health services,2005,52,Units,Index
+Kenya,KE,KEN,404,Coverage of essential health services,2015,52,Units,Index
+Kyrgyzstan,KG,KGZ,417,Coverage of essential health services,2000,52,Units,Index
+Mauritius,MU,MUS,480,Coverage of essential health services,2005,52,Units,Index
+Nicaragua,NI,NIC,558,Coverage of essential health services,2005,52,Units,Index
+Qatar,QA,QAT,634,Coverage of essential health services,2005,52,Units,Index
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2010,52,Units,Index
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2010,52,Units,Index
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2000,52,Units,Index
+Uzbekistan,UZ,UZB,860,Coverage of essential health services,2005,52,Units,Index
+Vanuatu,VU,VUT,548,Coverage of essential health services,2019,52,Units,Index
+Venezuela,VE,VEN,862,Coverage of essential health services,2000,52,Units,Index
+Zambia,ZM,ZMB,894,Coverage of essential health services,2017,52,Units,Index
+Bangladesh,BD,BGD,50,Coverage of essential health services,2019,51,Units,Index
+Botswana,BW,BWA,72,Coverage of essential health services,2010,51,Units,Index
+Colombia,CO,COL,170,Coverage of essential health services,2000,51,Units,Index
+Gabon,GA,GAB,266,Coverage of essential health services,2015,51,Units,Index
+Gabon,GA,GAB,266,Coverage of essential health services,2017,51,Units,Index
+Indonesia,ID,IDN,360,Coverage of essential health services,2015,51,Units,Index
+Kiribati,KI,KIR,296,Coverage of essential health services,2019,51,Units,Index
+Latvia,LV,LVA,428,Coverage of essential health services,2000,51,Units,Index
+Qatar,QA,QAT,634,Coverage of essential health services,2000,51,Units,Index
+Russia,RU,RUS,643,Coverage of essential health services,2000,51,Units,Index
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2005,51,Units,Index
+Ukraine,UA,UKR,804,Coverage of essential health services,2005,51,Units,Index
+United Arab Emirates,AE,ARE,784,Coverage of essential health services,2000,51,Units,Index
+Bahamas,BS,BHS,44,Coverage of essential health services,2000,50,Units,Index
+Belarus,BY,BLR,112,Coverage of essential health services,2000,50,Units,Index
+China,CN,CHN,156,Coverage of essential health services,2000,50,Units,Index
+El Salvador,SV,SLV,222,Coverage of essential health services,2000,50,Units,Index
+Eritrea,ER,ERI,232,Coverage of essential health services,2019,50,Units,Index
+Kiribati,KI,KIR,296,Coverage of essential health services,2017,50,Units,Index
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2019,50,Units,Index
+Qatar,QA,QAT,634,Coverage of essential health services,2010,50,Units,Index
+Samoa,WS,WSM,882,Coverage of essential health services,2010,50,Units,Index
+Seychelles,SC,SYC,690,Coverage of essential health services,2005,50,Units,Index
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2019,50,Units,Index
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2017,50,Units,Index
+Uganda,UG,UGA,800,Coverage of essential health services,2019,50,Units,Index
+Vanuatu,VU,VUT,548,Coverage of essential health services,2017,50,Units,Index
+Zambia,ZM,ZMB,894,Coverage of essential health services,2015,50,Units,Index
+Bhutan,BT,BTN,64,Coverage of essential health services,2010,49,Units,Index
+Bolivia,BO,BOL,68,Coverage of essential health services,2005,49,Units,Index
+Djibouti,DJ,DJI,262,Coverage of essential health services,2017,49,Units,Index
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2005,49,Units,Index
+Gabon,GA,GAB,266,Coverage of essential health services,2019,49,Units,Index
+Guyana,GY,GUY,328,Coverage of essential health services,2000,49,Units,Index
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2005,49,Units,Index
+Iraq,IQ,IRQ,368,Coverage of essential health services,2015,49,Units,Index
+Maldives,MV,MDV,462,Coverage of essential health services,2005,49,Units,Index
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2010,49,Units,Index
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2000,49,Units,Index
+"Moldova, Republic of",MD,MDA,498,Coverage of essential health services,2005,49,Units,Index
+Paraguay,PY,PRY,600,Coverage of essential health services,2005,49,Units,Index
+Philippines,PH,PHL,608,Coverage of essential health services,2015,49,Units,Index
+Senegal,SN,SEN,686,Coverage of essential health services,2019,49,Units,Index
+Serbia,RS,SRB,688,Coverage of essential health services,2000,49,Units,Index
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2017,49,Units,Index
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2015,49,Units,Index
+Vanuatu,VU,VUT,548,Coverage of essential health services,2015,49,Units,Index
+Bangladesh,BD,BGD,50,Coverage of essential health services,2017,48,Units,Index
+Djibouti,DJ,DJI,262,Coverage of essential health services,2019,48,Units,Index
+Eritrea,ER,ERI,232,Coverage of essential health services,2017,48,Units,Index
+Gambia,GM,GMB,270,Coverage of essential health services,2019,48,Units,Index
+India,IN,IND,356,Coverage of essential health services,2010,48,Units,Index
+Kiribati,KI,KIR,296,Coverage of essential health services,2015,48,Units,Index
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2010,48,Units,Index
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2017,48,Units,Index
+Lesotho,LS,LSO,426,Coverage of essential health services,2017,48,Units,Index
+Lesotho,LS,LSO,426,Coverage of essential health services,2019,48,Units,Index
+Malawi,MW,MWI,454,Coverage of essential health services,2019,48,Units,Index
+Malaysia,MY,MYS,458,Coverage of essential health services,2000,48,Units,Index
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2019,48,Units,Index
+Nepal,NP,NPL,524,Coverage of essential health services,2017,48,Units,Index
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2015,48,Units,Index
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2005,48,Units,Index
+Uganda,UG,UGA,800,Coverage of essential health services,2017,48,Units,Index
+Ukraine,UA,UKR,804,Coverage of essential health services,2000,48,Units,Index
+Vanuatu,VU,VUT,548,Coverage of essential health services,2010,48,Units,Index
+Haiti,HT,HTI,332,Coverage of essential health services,2019,47,Units,Index
+Iraq,IQ,IRQ,368,Coverage of essential health services,2010,47,Units,Index
+Kenya,KE,KEN,404,Coverage of essential health services,2010,47,Units,Index
+Lithuania,LT,LTU,440,Coverage of essential health services,2000,47,Units,Index
+Malawi,MW,MWI,454,Coverage of essential health services,2017,47,Units,Index
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2017,47,Units,Index
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2019,47,Units,Index
+Nicaragua,NI,NIC,558,Coverage of essential health services,2000,47,Units,Index
+Senegal,SN,SEN,686,Coverage of essential health services,2017,47,Units,Index
+South Africa,ZA,ZAF,710,Coverage of essential health services,2005,47,Units,Index
+Tonga,TO,TON,776,Coverage of essential health services,2005,47,Units,Index
+Tunisia,TN,TUN,788,Coverage of essential health services,2000,47,Units,Index
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2010,47,Units,Index
+Armenia,AM,ARM,51,Coverage of essential health services,2000,46,Units,Index
+Armenia,AM,ARM,51,Coverage of essential health services,2005,46,Units,Index
+Belize,BZ,BLZ,84,Coverage of essential health services,2000,46,Units,Index
+Botswana,BW,BWA,72,Coverage of essential health services,2005,46,Units,Index
+Egypt,EG,EGY,818,Coverage of essential health services,2005,46,Units,Index
+Eritrea,ER,ERI,232,Coverage of essential health services,2015,46,Units,Index
+Gabon,GA,GAB,266,Coverage of essential health services,2010,46,Units,Index
+Gambia,GM,GMB,270,Coverage of essential health services,2017,46,Units,Index
+Haiti,HT,HTI,332,Coverage of essential health services,2017,46,Units,Index
+Iraq,IQ,IRQ,368,Coverage of essential health services,2005,46,Units,Index
+Lesotho,LS,LSO,426,Coverage of essential health services,2015,46,Units,Index
+Maldives,MV,MDV,462,Coverage of essential health services,2000,46,Units,Index
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2015,46,Units,Index
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2017,46,Units,Index
+Senegal,SN,SEN,686,Coverage of essential health services,2015,46,Units,Index
+Seychelles,SC,SYC,690,Coverage of essential health services,2000,46,Units,Index
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2005,46,Units,Index
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2019,46,Units,Index
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2010,46,Units,Index
+Tonga,TO,TON,776,Coverage of essential health services,2000,46,Units,Index
+Albania,AL,ALB,8,Coverage of essential health services,2000,45,Units,Index
+Bangladesh,BD,BGD,50,Coverage of essential health services,2015,45,Units,Index
+Dominican Republic,DO,DOM,214,Coverage of essential health services,2000,45,Units,Index
+Fiji,FJ,FJI,242,Coverage of essential health services,2000,45,Units,Index
+Gambia,GM,GMB,270,Coverage of essential health services,2015,45,Units,Index
+Georgia,GE,GEO,268,Coverage of essential health services,2000,45,Units,Index
+Ghana,GH,GHA,288,Coverage of essential health services,2019,45,Units,Index
+Indonesia,ID,IDN,360,Coverage of essential health services,2010,45,Units,Index
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2017,45,Units,Index
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2019,45,Units,Index
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2005,45,Units,Index
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2015,45,Units,Index
+Morocco,MA,MAR,504,Coverage of essential health services,2000,45,Units,Index
+Myanmar,MM,MMR,104,Coverage of essential health services,2010,45,Units,Index
+Nepal,NP,NPL,524,Coverage of essential health services,2015,45,Units,Index
+Pakistan,PK,PAK,586,Coverage of essential health services,2019,45,Units,Index
+Russia,RU,RUS,643,Coverage of essential health services,2005,45,Units,Index
+Rwanda,RW,RWA,646,Coverage of essential health services,2010,45,Units,Index
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2010,45,Units,Index
+Sri Lanka,LK,LKA,144,Coverage of essential health services,2000,45,Units,Index
+Uganda,UG,UGA,800,Coverage of essential health services,2015,45,Units,Index
+Zambia,ZM,ZMB,894,Coverage of essential health services,2010,45,Units,Index
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2000,44,Units,Index
+Burundi,BI,BDI,108,Coverage of essential health services,2019,44,Units,Index
+Cameroon,CM,CMR,120,Coverage of essential health services,2019,44,Units,Index
+Comoros,KM,COM,174,Coverage of essential health services,2019,44,Units,Index
+Djibouti,DJ,DJI,262,Coverage of essential health services,2015,44,Units,Index
+Eritrea,ER,ERI,232,Coverage of essential health services,2010,44,Units,Index
+Guatemala,GT,GTM,320,Coverage of essential health services,2000,44,Units,Index
+Haiti,HT,HTI,332,Coverage of essential health services,2015,44,Units,Index
+Kiribati,KI,KIR,296,Coverage of essential health services,2010,44,Units,Index
+Mongolia,MN,MNG,496,Coverage of essential health services,2000,44,Units,Index
+Nigeria,NG,NGA,566,Coverage of essential health services,2019,44,Units,Index
+Sudan,SD,SDN,736,Coverage of essential health services,2017,44,Units,Index
+Sudan,SD,SDN,736,Coverage of essential health services,2019,44,Units,Index
+Syrian Arab Republic,SY,SYR,760,Coverage of essential health services,2000,44,Units,Index
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2005,44,Units,Index
+Togo,TG,TGO,768,Coverage of essential health services,2019,44,Units,Index
+Vietnam,VN,VNM,704,Coverage of essential health services,2005,44,Units,Index
+Yemen,YE,YEM,887,Coverage of essential health services,2017,44,Units,Index
+Yemen,YE,YEM,887,Coverage of essential health services,2019,44,Units,Index
+Antigua and Barbuda,AG,ATG,28,Coverage of essential health services,2000,43,Units,Index
+Bolivia,BO,BOL,68,Coverage of essential health services,2000,43,Units,Index
+Bosnia and Herzegovina,BA,BIH,70,Coverage of essential health services,2000,43,Units,Index
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2019,43,Units,Index
+Cameroon,CM,CMR,120,Coverage of essential health services,2017,43,Units,Index
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2017,43,Units,Index
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2019,43,Units,Index
+Iraq,IQ,IRQ,368,Coverage of essential health services,2000,43,Units,Index
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2015,43,Units,Index
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2000,43,Units,Index
+Lesotho,LS,LSO,426,Coverage of essential health services,2010,43,Units,Index
+Malawi,MW,MWI,454,Coverage of essential health services,2015,43,Units,Index
+Mauritius,MU,MUS,480,Coverage of essential health services,2000,43,Units,Index
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2005,43,Units,Index
+Mongolia,MN,MNG,496,Coverage of essential health services,2005,43,Units,Index
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2015,43,Units,Index
+Pakistan,PK,PAK,586,Coverage of essential health services,2017,43,Units,Index
+Paraguay,PY,PRY,600,Coverage of essential health services,2000,43,Units,Index
+Philippines,PH,PHL,608,Coverage of essential health services,2010,43,Units,Index
+Samoa,WS,WSM,882,Coverage of essential health services,2000,43,Units,Index
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2017,43,Units,Index
+Trinidad and Tobago,TT,TTO,780,Coverage of essential health services,2000,43,Units,Index
+Yemen,YE,YEM,887,Coverage of essential health services,2015,43,Units,Index
+Burundi,BI,BDI,108,Coverage of essential health services,2017,42,Units,Index
+Comoros,KM,COM,174,Coverage of essential health services,2017,42,Units,Index
+Egypt,EG,EGY,818,Coverage of essential health services,2000,42,Units,Index
+Ghana,GH,GHA,288,Coverage of essential health services,2017,42,Units,Index
+Haiti,HT,HTI,332,Coverage of essential health services,2010,42,Units,Index
+Honduras,HN,HND,340,Coverage of essential health services,2000,42,Units,Index
+Liberia,LR,LBR,430,Coverage of essential health services,2019,42,Units,Index
+Mali,ML,MLI,466,Coverage of essential health services,2019,42,Units,Index
+Saint Lucia,LC,LCA,662,Coverage of essential health services,2000,42,Units,Index
+Saint Vincent & the Grenadines,VC,VCT,670,Coverage of essential health services,2000,42,Units,Index
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2005,42,Units,Index
+Senegal,SN,SEN,686,Coverage of essential health services,2010,42,Units,Index
+Sudan,SD,SDN,736,Coverage of essential health services,2015,42,Units,Index
+Togo,TG,TGO,768,Coverage of essential health services,2017,42,Units,Index
+Barbados,BB,BRB,52,Coverage of essential health services,2000,41,Units,Index
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2017,41,Units,Index
+Cambodia,KH,KHM,116,Coverage of essential health services,2005,41,Units,Index
+Cameroon,CM,CMR,120,Coverage of essential health services,2015,41,Units,Index
+Comoros,KM,COM,174,Coverage of essential health services,2015,41,Units,Index
+Gambia,GM,GMB,270,Coverage of essential health services,2010,41,Units,Index
+Ghana,GH,GHA,288,Coverage of essential health services,2015,41,Units,Index
+Grenada,GD,GRD,308,Coverage of essential health services,2000,41,Units,Index
+Mauritania,MR,MRT,478,Coverage of essential health services,2017,41,Units,Index
+"Micronesia, Federated States of",FM,FSM,583,Coverage of essential health services,2000,41,Units,Index
+Nigeria,NG,NGA,566,Coverage of essential health services,2017,41,Units,Index
+Pakistan,PK,PAK,586,Coverage of essential health services,2015,41,Units,Index
+Suriname,SR,SUR,740,Coverage of essential health services,2000,41,Units,Index
+Tajikistan,TJ,TJK,762,Coverage of essential health services,2000,41,Units,Index
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2015,41,Units,Index
+Thailand,TH,THA,764,Coverage of essential health services,2000,41,Units,Index
+Yemen,YE,YEM,887,Coverage of essential health services,2010,41,Units,Index
+Bhutan,BT,BTN,64,Coverage of essential health services,2000,40,Units,Index
+Burundi,BI,BDI,108,Coverage of essential health services,2015,40,Units,Index
+Congo,CG,COG,178,Coverage of essential health services,2015,40,Units,Index
+Congo,CG,COG,178,Coverage of essential health services,2019,40,Units,Index
+Djibouti,DJ,DJI,262,Coverage of essential health services,2010,40,Units,Index
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2015,40,Units,Index
+Malawi,MW,MWI,454,Coverage of essential health services,2010,40,Units,Index
+Mauritania,MR,MRT,478,Coverage of essential health services,2019,40,Units,Index
+Nigeria,NG,NGA,566,Coverage of essential health services,2015,40,Units,Index
+Peru,PE,PER,604,Coverage of essential health services,2000,40,Units,Index
+Samoa,WS,WSM,882,Coverage of essential health services,2005,40,Units,Index
+Togo,TG,TGO,768,Coverage of essential health services,2015,40,Units,Index
+Uganda,UG,UGA,800,Coverage of essential health services,2010,40,Units,Index
+Vanuatu,VU,VUT,548,Coverage of essential health services,2000,40,Units,Index
+Vietnam,VN,VNM,704,Coverage of essential health services,2000,40,Units,Index
+Angola,AO,AGO,24,Coverage of essential health services,2017,39,Units,Index
+Angola,AO,AGO,24,Coverage of essential health services,2019,39,Units,Index
+Azerbaijan,AZ,AZE,31,Coverage of essential health services,2005,39,Units,Index
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2015,39,Units,Index
+Congo,CG,COG,178,Coverage of essential health services,2017,39,Units,Index
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2019,39,Units,Index
+Gabon,GA,GAB,266,Coverage of essential health services,2005,39,Units,Index
+Kazakhstan,KZ,KAZ,398,Coverage of essential health services,2000,39,Units,Index
+"Korea, Democratic People's Republic of",KP,PRK,408,Coverage of essential health services,2015,39,Units,Index
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2010,39,Units,Index
+Liberia,LR,LBR,430,Coverage of essential health services,2017,39,Units,Index
+Mali,ML,MLI,466,Coverage of essential health services,2017,39,Units,Index
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2019,39,Units,Index
+Vanuatu,VU,VUT,548,Coverage of essential health services,2005,39,Units,Index
+Benin,BJ,BEN,204,Coverage of essential health services,2017,38,Units,Index
+Benin,BJ,BEN,204,Coverage of essential health services,2019,38,Units,Index
+Bhutan,BT,BTN,64,Coverage of essential health services,2005,38,Units,Index
+Comoros,KM,COM,174,Coverage of essential health services,2010,38,Units,Index
+Ethiopia,ET,ETH,231,Coverage of essential health services,2019,38,Units,Index
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2015,38,Units,Index
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2017,38,Units,Index
+Liberia,LR,LBR,430,Coverage of essential health services,2015,38,Units,Index
+Mali,ML,MLI,466,Coverage of essential health services,2015,38,Units,Index
+Nigeria,NG,NGA,566,Coverage of essential health services,2010,38,Units,Index
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2015,38,Units,Index
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2017,38,Units,Index
+Afghanistan,AF,AFG,4,Coverage of essential health services,2019,37,Units,Index
+Angola,AO,AGO,24,Coverage of essential health services,2015,37,Units,Index
+Bangladesh,BD,BGD,50,Coverage of essential health services,2010,37,Units,Index
+Benin,BJ,BEN,204,Coverage of essential health services,2015,37,Units,Index
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2017,37,Units,Index
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2010,37,Units,Index
+Ethiopia,ET,ETH,231,Coverage of essential health services,2015,37,Units,Index
+Ethiopia,ET,ETH,231,Coverage of essential health services,2017,37,Units,Index
+Gambia,GM,GMB,270,Coverage of essential health services,2005,37,Units,Index
+Guinea,GN,GIN,324,Coverage of essential health services,2019,37,Units,Index
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2019,37,Units,Index
+"Iran, Islamic Republic of",IR,IRN,364,Coverage of essential health services,2000,37,Units,Index
+Jamaica,JM,JAM,388,Coverage of essential health services,2000,37,Units,Index
+Kenya,KE,KEN,404,Coverage of essential health services,2005,37,Units,Index
+Nepal,NP,NPL,524,Coverage of essential health services,2010,37,Units,Index
+Niger,NE,NER,562,Coverage of essential health services,2019,37,Units,Index
+Philippines,PH,PHL,608,Coverage of essential health services,2005,37,Units,Index
+Sudan,SD,SDN,736,Coverage of essential health services,2010,37,Units,Index
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2010,37,Units,Index
+Afghanistan,AF,AFG,4,Coverage of essential health services,2017,36,Units,Index
+Burundi,BI,BDI,108,Coverage of essential health services,2010,36,Units,Index
+Eritrea,ER,ERI,232,Coverage of essential health services,2005,36,Units,Index
+Mali,ML,MLI,466,Coverage of essential health services,2010,36,Units,Index
+Pakistan,PK,PAK,586,Coverage of essential health services,2010,36,Units,Index
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2010,36,Units,Index
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2017,36,Units,Index
+Sao Tome and Principe,ST,STP,678,Coverage of essential health services,2000,36,Units,Index
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2005,36,Units,Index
+South Africa,ZA,ZAF,710,Coverage of essential health services,2000,36,Units,Index
+Benin,BJ,BEN,204,Coverage of essential health services,2010,35,Units,Index
+Cape Verde,CV,CPV,132,Coverage of essential health services,2000,35,Units,Index
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2015,35,Units,Index
+Guinea,GN,GIN,324,Coverage of essential health services,2017,35,Units,Index
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2010,35,Units,Index
+Kiribati,KI,KIR,296,Coverage of essential health services,2005,35,Units,Index
+Liberia,LR,LBR,430,Coverage of essential health services,2010,35,Units,Index
+Madagascar,MG,MDG,450,Coverage of essential health services,2019,35,Units,Index
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2010,35,Units,Index
+Philippines,PH,PHL,608,Coverage of essential health services,2000,35,Units,Index
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2015,35,Units,Index
+Solomon Islands,SB,SLB,90,Coverage of essential health services,2000,35,Units,Index
+Togo,TG,TGO,768,Coverage of essential health services,2010,35,Units,Index
+Zambia,ZM,ZMB,894,Coverage of essential health services,2005,35,Units,Index
+Cameroon,CM,CMR,120,Coverage of essential health services,2010,34,Units,Index
+Congo,CG,COG,178,Coverage of essential health services,2010,34,Units,Index
+Ghana,GH,GHA,288,Coverage of essential health services,2010,34,Units,Index
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2005,34,Units,Index
+Mauritania,MR,MRT,478,Coverage of essential health services,2015,34,Units,Index
+Myanmar,MM,MMR,104,Coverage of essential health services,2005,34,Units,Index
+Niger,NE,NER,562,Coverage of essential health services,2015,34,Units,Index
+Niger,NE,NER,562,Coverage of essential health services,2017,34,Units,Index
+Swaziland,SZ,SWZ,748,Coverage of essential health services,2000,34,Units,Index
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2010,33,Units,Index
+Guinea,GN,GIN,324,Coverage of essential health services,2015,33,Units,Index
+Haiti,HT,HTI,332,Coverage of essential health services,2005,33,Units,Index
+India,IN,IND,356,Coverage of essential health services,2005,33,Units,Index
+Indonesia,ID,IDN,360,Coverage of essential health services,2005,33,Units,Index
+Lesotho,LS,LSO,426,Coverage of essential health services,2005,33,Units,Index
+Mauritania,MR,MRT,478,Coverage of essential health services,2010,33,Units,Index
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2019,33,Units,Index
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2000,33,Units,Index
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2005,33,Units,Index
+Afghanistan,AF,AFG,4,Coverage of essential health services,2015,32,Units,Index
+Angola,AO,AGO,24,Coverage of essential health services,2010,32,Units,Index
+Botswana,BW,BWA,72,Coverage of essential health services,2000,32,Units,Index
+Central African Republic,CF,CAF,140,Coverage of essential health services,2019,32,Units,Index
+Djibouti,DJ,DJI,262,Coverage of essential health services,2005,32,Units,Index
+Niger,NE,NER,562,Coverage of essential health services,2010,32,Units,Index
+Pakistan,PK,PAK,586,Coverage of essential health services,2005,32,Units,Index
+South Sudan,SS,SSD,728,Coverage of essential health services,2019,32,Units,Index
+Timor-Leste,TL,TLS,626,Coverage of essential health services,2005,32,Units,Index
+Yemen,YE,YEM,887,Coverage of essential health services,2005,32,Units,Index
+Zimbabwe,ZW,ZWE,716,Coverage of essential health services,2000,32,Units,Index
+Comoros,KM,COM,174,Coverage of essential health services,2005,31,Units,Index
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2010,31,Units,Index
+Ethiopia,ET,ETH,231,Coverage of essential health services,2010,31,Units,Index
+Gambia,GM,GMB,270,Coverage of essential health services,2000,31,Units,Index
+India,IN,IND,356,Coverage of essential health services,2000,31,Units,Index
+Madagascar,MG,MDG,450,Coverage of essential health services,2015,31,Units,Index
+Madagascar,MG,MDG,450,Coverage of essential health services,2017,31,Units,Index
+Malawi,MW,MWI,454,Coverage of essential health services,2005,31,Units,Index
+Rwanda,RW,RWA,646,Coverage of essential health services,2005,31,Units,Index
+South Sudan,SS,SSD,728,Coverage of essential health services,2017,31,Units,Index
+Uganda,UG,UGA,800,Coverage of essential health services,2005,31,Units,Index
+Yemen,YE,YEM,887,Coverage of essential health services,2000,31,Units,Index
+Cameroon,CM,CMR,120,Coverage of essential health services,2005,30,Units,Index
+Central African Republic,CF,CAF,140,Coverage of essential health services,2015,30,Units,Index
+Central African Republic,CF,CAF,140,Coverage of essential health services,2017,30,Units,Index
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2005,30,Units,Index
+Gabon,GA,GAB,266,Coverage of essential health services,2000,30,Units,Index
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2010,30,Units,Index
+Kenya,KE,KEN,404,Coverage of essential health services,2000,30,Units,Index
+Kiribati,KI,KIR,296,Coverage of essential health services,2000,30,Units,Index
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2010,30,Units,Index
+Togo,TG,TGO,768,Coverage of essential health services,2005,30,Units,Index
+Zambia,ZM,ZMB,894,Coverage of essential health services,2000,30,Units,Index
+Chad,TD,TCD,148,Coverage of essential health services,2017,29,Units,Index
+Congo,CG,COG,178,Coverage of essential health services,2005,29,Units,Index
+Eritrea,ER,ERI,232,Coverage of essential health services,2000,29,Units,Index
+Guinea,GN,GIN,324,Coverage of essential health services,2010,29,Units,Index
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2005,29,Units,Index
+Sudan,SD,SDN,736,Coverage of essential health services,2005,29,Units,Index
+Afghanistan,AF,AFG,4,Coverage of essential health services,2010,28,Units,Index
+Chad,TD,TCD,148,Coverage of essential health services,2015,28,Units,Index
+Chad,TD,TCD,148,Coverage of essential health services,2019,28,Units,Index
+Madagascar,MG,MDG,450,Coverage of essential health services,2010,28,Units,Index
+Nigeria,NG,NGA,566,Coverage of essential health services,2005,28,Units,Index
+South Sudan,SS,SSD,728,Coverage of essential health services,2015,28,Units,Index
+Central African Republic,CF,CAF,140,Coverage of essential health services,2010,27,Units,Index
+Djibouti,DJ,DJI,262,Coverage of essential health services,2000,27,Units,Index
+Equatorial Guinea,GQ,GNQ,226,Coverage of essential health services,2000,27,Units,Index
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2005,27,Units,Index
+Lesotho,LS,LSO,426,Coverage of essential health services,2000,27,Units,Index
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2005,27,Units,Index
+Myanmar,MM,MMR,104,Coverage of essential health services,2000,27,Units,Index
+Papua New Guinea,PG,PNG,598,Coverage of essential health services,2000,27,Units,Index
+Senegal,SN,SEN,686,Coverage of essential health services,2005,27,Units,Index
+Somalia,SO,SOM,706,Coverage of essential health services,2017,27,Units,Index
+Somalia,SO,SOM,706,Coverage of essential health services,2019,27,Units,Index
+Sudan,SD,SDN,736,Coverage of essential health services,2000,27,Units,Index
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2005,27,Units,Index
+Afghanistan,AF,AFG,4,Coverage of essential health services,2005,26,Units,Index
+Bangladesh,BD,BGD,50,Coverage of essential health services,2005,26,Units,Index
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2005,26,Units,Index
+Comoros,KM,COM,174,Coverage of essential health services,2000,26,Units,Index
+Lao People's Democratic Republic,LA,LAO,418,Coverage of essential health services,2000,26,Units,Index
+Mauritania,MR,MRT,478,Coverage of essential health services,2005,26,Units,Index
+Burundi,BI,BDI,108,Coverage of essential health services,2005,25,Units,Index
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2005,25,Units,Index
+Ghana,GH,GHA,288,Coverage of essential health services,2005,25,Units,Index
+Malawi,MW,MWI,454,Coverage of essential health services,2000,25,Units,Index
+Mali,ML,MLI,466,Coverage of essential health services,2005,25,Units,Index
+Bangladesh,BD,BGD,50,Coverage of essential health services,2000,24,Units,Index
+Benin,BJ,BEN,204,Coverage of essential health services,2005,24,Units,Index
+Chad,TD,TCD,148,Coverage of essential health services,2010,24,Units,Index
+Ghana,GH,GHA,288,Coverage of essential health services,2000,24,Units,Index
+Liberia,LR,LBR,430,Coverage of essential health services,2005,24,Units,Index
+Nepal,NP,NPL,524,Coverage of essential health services,2005,24,Units,Index
+Somalia,SO,SOM,706,Coverage of essential health services,2015,24,Units,Index
+South Sudan,SS,SSD,728,Coverage of essential health services,2010,24,Units,Index
+Angola,AO,AGO,24,Coverage of essential health services,2005,23,Units,Index
+Benin,BJ,BEN,204,Coverage of essential health services,2000,23,Units,Index
+Haiti,HT,HTI,332,Coverage of essential health services,2000,23,Units,Index
+Madagascar,MG,MDG,450,Coverage of essential health services,2005,23,Units,Index
+Mozambique,MZ,MOZ,508,Coverage of essential health services,2000,23,Units,Index
+Pakistan,PK,PAK,586,Coverage of essential health services,2000,23,Units,Index
+Rwanda,RW,RWA,646,Coverage of essential health services,2000,23,Units,Index
+Togo,TG,TGO,768,Coverage of essential health services,2000,23,Units,Index
+Angola,AO,AGO,24,Coverage of essential health services,2000,22,Units,Index
+"Congo, the Democratic Republic of the",CD,COD,180,Coverage of essential health services,2000,22,Units,Index
+Guinea,GN,GIN,324,Coverage of essential health services,2005,22,Units,Index
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2005,22,Units,Index
+Indonesia,ID,IDN,360,Coverage of essential health services,2000,22,Units,Index
+Liberia,LR,LBR,430,Coverage of essential health services,2000,22,Units,Index
+Uganda,UG,UGA,800,Coverage of essential health services,2000,22,Units,Index
+Afghanistan,AF,AFG,4,Coverage of essential health services,2000,21,Units,Index
+Congo,CG,COG,178,Coverage of essential health services,2000,21,Units,Index
+Mali,ML,MLI,466,Coverage of essential health services,2000,21,Units,Index
+Niger,NE,NER,562,Coverage of essential health services,2005,21,Units,Index
+Senegal,SN,SEN,686,Coverage of essential health services,2000,21,Units,Index
+South Sudan,SS,SSD,728,Coverage of essential health services,2005,21,Units,Index
+Cameroon,CM,CMR,120,Coverage of essential health services,2000,20,Units,Index
+Central African Republic,CF,CAF,140,Coverage of essential health services,2005,20,Units,Index
+Ethiopia,ET,ETH,231,Coverage of essential health services,2005,20,Units,Index
+Nepal,NP,NPL,524,Coverage of essential health services,2000,20,Units,Index
+Nigeria,NG,NGA,566,Coverage of essential health services,2000,20,Units,Index
+Somalia,SO,SOM,706,Coverage of essential health services,2010,20,Units,Index
+South Sudan,SS,SSD,728,Coverage of essential health services,2000,20,Units,Index
+Burkina Faso,BF,BFA,854,Coverage of essential health services,2000,19,Units,Index
+Cambodia,KH,KHM,116,Coverage of essential health services,2000,19,Units,Index
+Ivory Coast,CI,CIV,384,Coverage of essential health services,2000,19,Units,Index
+Madagascar,MG,MDG,450,Coverage of essential health services,2000,19,Units,Index
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2005,19,Units,Index
+"Tanzania, United Republic of",TZ,TZA,834,Coverage of essential health services,2000,19,Units,Index
+Mauritania,MR,MRT,478,Coverage of essential health services,2000,18,Units,Index
+Burundi,BI,BDI,108,Coverage of essential health services,2000,17,Units,Index
+Guinea-Bissau,GW,GNB,624,Coverage of essential health services,2000,17,Units,Index
+Niger,NE,NER,562,Coverage of essential health services,2000,17,Units,Index
+Sierra Leone,SL,SLE,694,Coverage of essential health services,2000,17,Units,Index
+Chad,TD,TCD,148,Coverage of essential health services,2000,16,Units,Index
+Chad,TD,TCD,148,Coverage of essential health services,2005,16,Units,Index
+Ethiopia,ET,ETH,231,Coverage of essential health services,2000,16,Units,Index
+Guinea,GN,GIN,324,Coverage of essential health services,2000,16,Units,Index
+Central African Republic,CF,CAF,140,Coverage of essential health services,2000,15,Units,Index
+Somalia,SO,SOM,706,Coverage of essential health services,2000,14,Units,Index
+Somalia,SO,SOM,706,Coverage of essential health services,2005,14,Units,Index
+Namibia,,NAM,516,Coverage of essential health services,2000,38,Units,Index
+Namibia,,NAM,516,Coverage of essential health services,2005,47,Units,Index
+Namibia,,NAM,516,Coverage of essential health services,2010,54,Units,Index
+Namibia,,NAM,516,Coverage of essential health services,2015,59,Units,Index
+Namibia,,NAM,516,Coverage of essential health services,2017,59,Units,Index
+Namibia,,NAM,516,Coverage of essential health services,2019,62,Units,Index

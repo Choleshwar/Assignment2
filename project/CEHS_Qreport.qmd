@@ -1,0 +1,126 @@
+---
+title: "Coverage of Essential Healthcare Services."
+format: html
+
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+```{r}
+#| label: gapminder-pop
+#| include: false
+
+library(tidyverse)
+
+unicef_metadata_final <- read.csv("/cloud/project/unicef_metadata_final.csv")
+```
+
+## Essential Healthcare Services Falling Behind in Sub-Saharan Africa and East-Asia
+
+
+```{r}
+install.packages("tidyverse")
+library(tidyverse)
+
+
+Metadata <- read_csv("unicef_metadata_final.csv")
+CEHS <- read_csv("unicef_indicator_2(1).csv")
+MMR <- read_csv("Maternal_MR.csv")
+IMR <- read_csv("Infant_MR.csv")
+CMR <- read_csv("Child_MR.csv")
+
+Metadata_filter <- filter(Metadata, country %in% c("Cambodia", "Somalia") & year == 2019)
+CEHS_filter <- filter(CEHS, country %in% c("Cambodia", "Somalia") & time_period == 2019)
+MMR_filter <- filter(MMR, Country %in% c("Cambodia", "Somalia") & `Time period` == 2019)
+IMR_filter <- filter(IMR, Country %in% c("Cambodia", "Somalia") & `Time period` == 2019)
+CMR_filter <- filter(CMR, Country %in% c("Cambodia", "Somalia") & `Time period` == 2019)
+
+```
+
+## Global Map of Essential Healthcare Service Coverage: A Visual Representation of Disparities and Progress
+
+**Cambodia** with the highest % increase in CEHS from 2000 to 2019 is still at 61 while **Somalia** with a 93% increase in CEHS is the lowest on the CEHS index with 27.
+
+```{r}
+install.packages("maps")
+library("maps")
+
+#WorldMap
+
+map_world <- map_data("world")
+Merge_data <- full_join(map_world, CEHS, by = c("region" = "country"))
+
+Map_plot <- ggplot(data = Merge_data) +
+  aes(x = long, y = lat, group = group, fill = obs_value) +
+  geom_polygon() +
+  scale_fill_gradient(low = "darkblue", high = "lightblue", na.value = "grey", limits = c(0, max(Merge_data$obs_value, na.rm = TRUE)))
+
+print(Map_plot)
+
+```
+
+
+## Bar Graph Showing Coverage of Essential Healthcare Services in Cambodia and Somalia.
+
+In 2019, **Cambodia** has risen to 61 in their healthcare services with a growth rate of 221% and **Somalia** has risen to 27 with a growth rate of 93%. These are two countries with poor healthcare services in Africa and East-Asia. 
+
+```{r}
+library(ggplot2)
+
+#BarGraph 
+ggplot(data = CEHS_filter) +
+  aes(x = country, y =  obs_value, fill = country) +
+  geom_col()
+
+```
+
+## Time Series Analysis of Essential Healthcare Service Coverage: Cambodia and Somalia.
+
+Although the life expectancy rates in **Cambodia** and **Somalia** have shown improvement, both countries still lack access to quality healthcare services. Over the years, life expectancy has steadily increased in Cambodia, while in Somalia it has remained relatively constant until the rate of improvement began to accelerate in 2010. Despite these positive trends, both countries still face significant challenges in providing essential healthcare to their populations 
+
+```{r}
+library(dplyr)
+
+Metadata <- Metadata %>%
+  rename("Life expectancy" = "Life expectancy at birth, total (years)")
+
+Metadata %>%
+  filter(country == "Cambodia" | country == "Somalia") %>%
+  ggplot(aes(year, `Life expectancy`, color = country)) +
+  geom_line()
+
+```
+
+## Scatter Plot Analysis of Maternal Mortality Rate Across Cambodia and Somalia. 
+
+The maternal mortality rate from 2000 to 2019 per 100,000 live births of **Cambodia** and **Somalia** are experiencing a decline due to their poor performance in healthcare services. The major reason is due to lack of adequate, affordable and accessible health services, poor quality services, poor hygiene, a lack of skilled health staff, and harmful traditional practices. These factors are effecting the maternal mortality rate to be so high.
+
+```{r}
+  
+  library(ggplot2)
+  library(dplyr)
+  
+  # Filter data for Cambodia and Somalia only
+  MMR_filter <- MMR %>% filter(Country == "Cambodia" | Country == "Somalia")
+  
+  # Create the plot
+  MMR_ggplot <- ggplot(MMR_filter) +
+    aes(x = `Time period`, y = `Maternal Mortality Rate`, color = `Country`) +
+    geom_point(alpha = 0.2, size = 1) +
+    geom_smooth(method = "lm") +
+    facet_wrap(~ `Country`, nrow = 1) +
+    scale_x_continuous(breaks = c(2000,2005,2010,2015,2017,2019)) +
+    labs(
+      x = "Year (from 2000 to 2019)",
+      y = "Maternal Mortality Rate",
+      title = "Maternal Mortality Rate from 2000 to 2019 per Country."
+    ) +
+    theme_classic() +
+    theme(text = element_text(size = 12)) +
+    guides(color = "none")
+  
+  print(MMR_ggplot)
+  
+```
+

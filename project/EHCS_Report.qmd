@@ -1,0 +1,86 @@
+---
+title: "EHCS"
+format: html
+
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+install.packages("tidyverse")
+library(tidyverse)
+
+
+Metadata <- read_csv("unicef_metadata_final.csv")
+CEHS <- read_csv("unicef_indicator_2(1).csv")
+MMR <- read_csv("Maternal_MR.csv")
+IMR <- read_csv("Infant_MR.csv")
+CMR <- read_csv("Child_MR.csv")
+
+Metadata_filter <- filter(Metadata, country %in% c("Cambodia", "Somalia") & year == 2019)
+CEHS_filter <- filter(CEHS, country %in% c("Cambodia", "Somalia") & time_period == 2019)
+MMR_filter <- filter(MMR, Country %in% c("Cambodia", "Somalia") & `Time period` == 2019)
+IMR_filter <- filter(IMR, Country %in% c("Cambodia", "Somalia") & `Time period` == 2019)
+CMR_filter <- filter(CMR, Country %in% c("Cambodia", "Somalia") & `Time period` == 2019)
+
+library(ggplot2)
+
+#BarGraph 
+ggplot(data = CEHS_filter) +
+  aes(x = country, y =  obs_value, fill = country) +
+  geom_col()
+
+
+install.packages("maps")
+library("maps")
+
+#WorldMap
+
+map_world <- map_data("world")
+Merge_data <- full_join(map_world, CEHS, by = c("region" = "country"))
+
+Map_plot <- ggplot(data = Merge_data) +
+  aes(x = long, y = lat, group = group, fill = obs_value) +
+  geom_polygon() +
+  scale_fill_gradient(low = "darkblue", high = "lightblue", na.value = "grey", limits = c(0, max(Merge_data$obs_value, na.rm = TRUE)))
+
+print(Map_plot)
+
+#Time series 
+library(dplyr)
+
+Metadata <- Metadata %>%
+  rename("Life expectancy" = "Life expectancy at birth, total (years)")
+
+Metadata %>%
+  filter(country == "Cambodia" | country == "Somalia") %>%
+  ggplot(aes(year, `Life expectancy`, color = country)) +
+  geom_line()
+
+#Scatterplot
+  
+  library(ggplot2)
+  library(dplyr)
+  
+  # Filter data for Cambodia and Somalia only
+  MMR_filter <- MMR %>% filter(Country == "Cambodia" | Country == "Somalia")
+  
+  # Create the plot
+  MMR_ggplot <- ggplot(MMR_filter) +
+    aes(x = `Time period`, y = `Maternal Mortality Rate`, color = `Country`) +
+    geom_point(alpha = 0.2, size = 1) +
+    geom_smooth(method = "lm") +
+    facet_wrap(~ `Country`, nrow = 1) +
+    scale_x_continuous(breaks = c(2000,2005,2010,2015,2017,2019)) +
+    labs(
+      x = "Year (from 2000 to 2019)",
+      y = "Maternal Mortality Rate",
+      title = "Maternal Mortality Rate from 2000 to 2019 per Country."
+    ) +
+    theme_classic() +
+    theme(text = element_text(size = 12)) +
+    guides(color = "none")
+  
+  print(MMR_ggplot)
+  
+

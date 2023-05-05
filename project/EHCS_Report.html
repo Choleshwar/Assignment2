@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.475">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>EHCS</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="EHCS_Report_files/libs/clipboard/clipboard.min.js"></script>
+<script src="EHCS_Report_files/libs/quarto-html/quarto.js"></script>
+<script src="EHCS_Report_files/libs/quarto-html/popper.min.js"></script>
+<script src="EHCS_Report_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="EHCS_Report_files/libs/quarto-html/anchor.min.js"></script>
+<link href="EHCS_Report_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="EHCS_Report_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="EHCS_Report_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="EHCS_Report_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="EHCS_Report_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">EHCS</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>install.packages(“tidyverse”) library(tidyverse)</p>
+<p>Metadata &lt;- read_csv(“unicef_metadata_final.csv”) CEHS &lt;- read_csv(“unicef_indicator_2(1).csv”) MMR &lt;- read_csv(“Maternal_MR.csv”) IMR &lt;- read_csv(“Infant_MR.csv”) CMR &lt;- read_csv(“Child_MR.csv”)</p>
+<p>Metadata_filter &lt;- filter(Metadata, country %in% c(“Cambodia”, “Somalia”) &amp; year == 2019) CEHS_filter &lt;- filter(CEHS, country %in% c(“Cambodia”, “Somalia”) &amp; time_period == 2019) MMR_filter &lt;- filter(MMR, Country %in% c(“Cambodia”, “Somalia”) &amp; <code>Time period</code> == 2019) IMR_filter &lt;- filter(IMR, Country %in% c(“Cambodia”, “Somalia”) &amp; <code>Time period</code> == 2019) CMR_filter &lt;- filter(CMR, Country %in% c(“Cambodia”, “Somalia”) &amp; <code>Time period</code> == 2019)</p>
+<p>library(ggplot2)</p>
+<p>#BarGraph ggplot(data = CEHS_filter) + aes(x = country, y = obs_value, fill = country) + geom_col()</p>
+<p>install.packages(“maps”) library(“maps”)</p>
+<p>#WorldMap</p>
+<p>map_world &lt;- map_data(“world”) Merge_data &lt;- full_join(map_world, CEHS, by = c(“region” = “country”))</p>
+<p>Map_plot &lt;- ggplot(data = Merge_data) + aes(x = long, y = lat, group = group, fill = obs_value) + geom_polygon() + scale_fill_gradient(low = “darkblue”, high = “lightblue”, na.value = “grey”, limits = c(0, max(Merge_data$obs_value, na.rm = TRUE)))</p>
+<p>print(Map_plot)</p>
+<p>#Time series library(dplyr)</p>
+<p>Metadata &lt;- Metadata %&gt;% rename(“Life expectancy” = “Life expectancy at birth, total (years)”)</p>
+<p>Metadata %&gt;% filter(country == “Cambodia” | country == “Somalia”) %&gt;% ggplot(aes(year, <code>Life expectancy</code>, color = country)) + geom_line()</p>
+<p>#Scatterplot</p>
+<p>library(ggplot2) library(dplyr)</p>
+<p># Filter data for Cambodia and Somalia only MMR_filter &lt;- MMR %&gt;% filter(Country == “Cambodia” | Country == “Somalia”)</p>
+<p># Create the plot MMR_ggplot &lt;- ggplot(MMR_filter) + aes(x = <code>Time period</code>, y = <code>Maternal Mortality Rate</code>, color = <code>Country</code>) + geom_point(alpha = 0.2, size = 1) + geom_smooth(method = “lm”) + facet_wrap(~ <code>Country</code>, nrow = 1) + scale_x_continuous(breaks = c(2000,2005,2010,2015,2017,2019)) + labs( x = “Year (from 2000 to 2019)”, y = “Maternal Mortality Rate”, title = “Maternal Mortality Rate from 2000 to 2019 per Country.” ) + theme_classic() + theme(text = element_text(size = 12)) + guides(color = “none”)</p>
+<p>print(MMR_ggplot)</p>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
